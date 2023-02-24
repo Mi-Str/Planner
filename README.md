@@ -12,4 +12,4 @@ This app will run in the browser
 
 
 ## Link to deployment
-[Planner]
+[Planner](https://mi-str.github.io/Planner/)
